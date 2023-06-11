@@ -2,7 +2,7 @@
   
   <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
-<img align="center" alt="Coding" width="600",src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3  13138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="center" alt="Coding" width="600",src="[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3  13138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNFFOU9WuC6qztf_El5OpTiPrFPCWUIfC1w&usqp=CAU)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
 - 🔭 I’m currently searching for an **internship in computer science development**
