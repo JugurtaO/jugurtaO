@@ -2,7 +2,7 @@
   
   <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
-<img align="right" alt="Coding" width="400",src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNFFOU9WuC6qztf_El5OpTiPrFPCWUIfC1w&usqp=CAU">
+<img align="right" alt="Coding" width="800",src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNFFOU9WuC6qztf_El5OpTiPrFPCWUIfC1w&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
 - 🔭 I’m currently searching for an **internship in computer science development**
