@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg)]
+![MasterHead](https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg)
   
   <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
