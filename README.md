@@ -1,5 +1,5 @@
 
-https://github.com/JugurtaO/jugurtaO/assets/98745935/106fe9f4-2aa0-4e3f-9354-1986f11a6de1
+![Camille   Matthew's](https://github.com/JugurtaO/jugurtaO/assets/98745935/4678e574-824a-4a5d-98a3-ef65dfb3efcf)
 
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
