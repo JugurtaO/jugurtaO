@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFlgcktkX0/u79n8vztIjhIlmvHUTxKvQ/edit)
+![maingif 1646021](https://github.com/JugurtaO/jugurtaO/assets/98745935/22110c88-222b-4e4e-b7a3-d2b6c6340a5d)
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
 
