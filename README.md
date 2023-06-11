@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1boZQmUUmYURsvXZOfKCoqX3gQ46bE6pL/view?usp=drive_link)
+![MasterHead]([https://drive.google.com/file/d/1boZQmUUmYURsvXZOfKCoqX3gQ46bE6pL/view?usp=drive_link](https://www.canva.com/design/DAFlgcktkX0/u79n8vztIjhIlmvHUTxKvQ/edit))
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
 
