@@ -1,5 +1,5 @@
 
-![JS - NodeJs - ExpressJs MySql(1)](https://github.com/JugurtaO/jugurtaO/assets/98745935/1b0405ff-4a1c-46fe-a9a5-317a613aa838)
+![JS - NodeJs - ExpressJs MySql(1)(1)](https://github.com/JugurtaO/jugurtaO/assets/98745935/5184101d-ba2c-4606-add3-2911919f8aff)
 
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
