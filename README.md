@@ -1,5 +1,5 @@
 
-![Camille   Matthew's](https://github.com/JugurtaO/jugurtaO/assets/98745935/4678e574-824a-4a5d-98a3-ef65dfb3efcf)
+![JS - NOdeJs - ExpressJs MySql](https://github.com/JugurtaO/jugurtaO/assets/98745935/ccd21fba-6af8-4e9b-b4b6-9295052eb424)
 
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
