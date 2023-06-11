@@ -1,4 +1,6 @@
-![maingif 1646021](https://github.com/JugurtaO/jugurtaO/assets/98745935/22110c88-222b-4e4e-b7a3-d2b6c6340a5d)
+
+https://github.com/JugurtaO/jugurtaO/assets/98745935/106fe9f4-2aa0-4e3f-9354-1986f11a6de1
+
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
 <h3 align="center">A passionate web developer from Grenoble France</h3>
 
