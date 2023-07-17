@@ -2,7 +2,7 @@
 ![JS - NodeJs - ExpressJs MySql(1)(1)](https://github.com/JugurtaO/jugurtaO/assets/98745935/5184101d-ba2c-4606-add3-2911919f8aff)
 
 <h1 align="center">Hi 👋, I'm Jugurta OURZIK</h1>
-<h3 align="center">A passionate web developer from Grenoble France</h3>
+<h3 align="center">A MIAGE student & passionate web developer from Grenoble France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
