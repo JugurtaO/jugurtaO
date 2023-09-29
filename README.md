@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently looking for an **internship in computer science development**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
