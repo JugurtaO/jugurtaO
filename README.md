@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
-- 🔭 I’m currently looking for an **apprenticeship contract in web and mobile software development**
+- 🔭 I’m currently looking for an **apprenticeship contract in Web and Mobile Software Development**
 
 - 🌱 I’m currently learning **Web Development | spring-boot & angular**
 
