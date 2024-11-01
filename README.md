@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently looking for an **apprenticeship contract in Web and Mobile Software Development**
 
-- 🌱 I’m currently learning **Web Development | spring-boot & angular**
+- 🌱 I’m currently learning **Web Development | spring-boot, angular, react & Laravel **
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
