@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
-- 🔭 I’m currently looking for an **apprenticeship contract in Web and Mobile Software Development**
+- 🔭 I’m currently looking for a **permanent contract as a software engineer**.
 
-- 🌱 I’m currently learning **Web Development | Spring-Boot, Angular, React & Laravel **
+- 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & Php-Laravel **
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
