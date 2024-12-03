@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently looking for a **permanent contract as a software engineer**.
 
-- 🌱 I’m currently developing web apps with ** Java-Spring-Boot, Angular, React & Php-Laravel **
+- 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & Php-Laravel**
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
