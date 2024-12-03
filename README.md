@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
-- 🔭 I’m currently looking for a **permanent contract as a software engineer**.
+- 🔭 I’m currently looking for a **permanent contract as a Software Engineer**.
 
 - 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & Php-Laravel**
 
