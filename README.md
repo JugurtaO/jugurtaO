@@ -9,6 +9,7 @@
 - 🔭 I’m currently looking for a **permanent contract as a Software Engineer**.
 
 - 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & Php-Laravel**
+- 🏅 Certified Laravel Developer ![](https://img.shields.io/badge/Laravel_Certified-Junior-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A1D1D)
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
