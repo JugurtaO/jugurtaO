@@ -2,14 +2,16 @@
 ![JS - NodeJs - ExpressJs MySql](https://github.com/JugurtaO/jugurtaO/assets/98745935/d6d42bf9-734c-4a34-9d92-271e2609928c)
 
 <h2 align="center">Hi 👋, I'm Jugurta OURZIK</h2>
-<h4 align="center">Software and AI Engineer, MIAGE student (Business Informatics) @ Grenoble Alpes University </h4>
+<h4 align="center">Software Engineer & MIAGE student (Business Informatics) @ Grenoble Alpes University </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
 - 🔭 I’m currently looking for a **permanent contract as a Software Engineer**.
 
-- 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & Php-Laravel**
+- 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & PHP-Laravel**
 - 🏅 Certified Laravel Developer ![](https://img.shields.io/badge/Laravel_Certified-Junior-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A1D1D)
+- 🏅 IBM RAG & Agentic AI ![](https://www.coursera.org/account/accomplishments/verify/GYRNGX2IFSVH)
+- 🏅 Google Introduction AI ![](https://www.coursera.org/account/accomplishments/verify/AFKRG24M7DMH)
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
