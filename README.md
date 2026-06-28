@@ -1,3 +1,4 @@
+
 ![JS - NodeJs - ExpressJs MySql](https://github.com/JugurtaO/jugurtaO/assets/98745935/d6d42bf9-734c-4a34-9d92-271e2609928c)
 <h2 align="center">Hi 👋, I'm Jugurta OURZIK</h2>
 <h4 align="center">𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | Full-Stack Developer  with a strong focus on Back-End and DevOps Engineering. </h4>
@@ -15,8 +16,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/jugurtao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jugurtao" height="30" width="40" /></a>
 </p>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jugurtao&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugurtao&hide_border=true" height="160"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jugurtao&show_icons=true&locale=en" alt="jugurtao" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jugurtao&" alt="jugurtao" /></p>
