@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently developing web apps with **Java-Spring-Boot, Angular, React & PHP-Laravel**
 - 🏅 Certified Laravel Developer ![](https://img.shields.io/badge/Laravel_Certified-Junior-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A1D1D)
-- 🏅 IBM RAG & Agentic AI ![](https://www.coursera.org/account/accomplishments/verify/GYRNGX2IFSVH)
-- 🏅 Google Introduction AI ![](https://www.coursera.org/account/accomplishments/verify/AFKRG24M7DMH)
+- 🏅 IBM RAG & Agentic AI [](https://www.coursera.org/account/accomplishments/verify/GYRNGX2IFSVH)
+- 🏅 Google Introduction AI [](https://www.coursera.org/account/accomplishments/verify/AFKRG24M7DMH)
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 
