@@ -3,7 +3,10 @@
 
 <h2 align="center">Hi 👋, I'm Jugurta OURZIK</h2>
 <h4 align="center">𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | Full-Stack Developer  with a strong focus on Back-End and DevOps Engineering. </h4>
-<p> Strong foundation in Business Informatics, I combine strategic thinking with technical proficiency to deliver robust, scalable solutions that drive business value</p>
+<p> With a strong foundation in Business Informatics, I combine strategic thinking with technical proficiency to deliver robust, scalable solutions that drive business value. I build software that lasts. My expertise blends the strategic vision of a MIAGE degree with rigorous engineering focused on Back-End performance and Sustainable Tech.
+
+ 𝐖𝐡𝐚𝐭 𝐈 𝐛𝐫𝐢𝐧𝐠 : Complex problem-solving and business-driven design.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
