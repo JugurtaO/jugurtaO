@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 <h3 align="left">Connect with me:</h3>
-## 🔧 Stack technique
 
+<h3> 🔧 Stack technique </h3>
 **Back-End**
 `Java` `Spring Boot` `Spring WebFlux` `PHP` `Laravel`
 
@@ -34,6 +34,15 @@
 
 **Bases de données**
 `PostgreSQL` `MySQL` `Redis`
+
+---
+
+<h3>📊 GitHub Stats </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jugurtao&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugurtao&hide_border=true" height="160"/>
+</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/jugurtao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jugurtao" height="30" width="40" /></a>
