@@ -2,7 +2,8 @@
 ![JS - NodeJs - ExpressJs MySql](https://github.com/JugurtaO/jugurtaO/assets/98745935/d6d42bf9-734c-4a34-9d92-271e2609928c)
 
 <h2 align="center">Hi 👋, I'm Jugurta OURZIK</h2>
-<h4 align="center">Software Engineer & MIAGE student (Business Informatics) @ Grenoble Alpes University </h4>
+<h4 align="center">𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | Full-Stack Developer  with a strong focus on Back-End and DevOps Engineering. </h4>
+<p> Strong foundation in Business Informatics, I combine strategic thinking with technical proficiency to deliver robust, scalable solutions that drive business value</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugurtao&label=Profile%20views&color=0e75b6&style=flat" alt="jugurtao" /> </p>
 
