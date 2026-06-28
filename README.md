@@ -15,13 +15,17 @@
 - 🏅 Certified Laravel Developer ![](https://img.shields.io/badge/Laravel_Certified-Junior-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A1D1D)
 - 🏅 IBM RAG & Agentic AI ![](https://www.coursera.org/account/accomplishments/verify/GYRNGX2IFSVH)
 - 🏅 Google Introduction AI ![](https://www.coursera.org/account/accomplishments/verify/AFKRG24M7DMH)
+  
 ---
+
 - 📫 How to reach me **jugurtaourzik@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jugurtao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jugurtao" height="30" width="40" /></a>
 </p>
+
 ---
+
 <h3> 🔧 Stack technique </h3>
 
 **Back-End** 
